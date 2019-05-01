@@ -3,7 +3,7 @@ Contributors: salzano
 Tags: featured image, feed, post thumbnail, add featured image to rss, add featured image, the_post_thumbnail
 Requires at least: 2.0.2
 Tested up to: 5.1.1
-Stable tag: 1.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,7 +35,8 @@ In your site's RSS feed.
 
 == Changelog ==
 
-= 1.0.1 =
+= 1.1.0 =
+* [Added] Wraps the thumbnail size of the image in a filter `rss_featured_image_thumbnail_size` so that other developers may change it
 * [Changed] Tested up to version 5.1.1
 
 = 1.0 =
@@ -45,7 +46,7 @@ In your site's RSS feed.
 == Upgrade Notice ==
 
 = 1.1.0 =
-I tested this version of the plugin on WordPress 5.1.1, and it still works great.
+I tested this version of the plugin on WordPress 5.1.1, and it still works great. I also made it possible for other developers to manipulate the thumbnail size of the photo using a filter.
 
 = 1.0 =
 There is only one version available at this time

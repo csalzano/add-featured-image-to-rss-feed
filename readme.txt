@@ -1,22 +1,26 @@
-=== Add featured image to RSS feed ===
+=== Add Featured Image to RSS Feed ===
 Contributors: salzano
-Donate link: http://www.tacticaltechnique.com/donate/
 Tags: featured image, feed, post thumbnail, add featured image to rss, add featured image, the_post_thumbnail
 Requires at least: 2.0.2
-Tested up to: 3.5.1
+Tested up to: 5.1.1
 Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adds the featured image attached to your posts to the RSS feed. That is all. No extra crap.
+
 
 == Description ==
 
 This plugin does one thing, and that thing is to add your posts' featured image to the RSS
 feed. It specifies the 'large' image size.
 
+
 == Installation ==
 
 1. Upload the plugin to your wp-content/plugins folder, or use the Plugins > Add New section of your dashboard to search for "Add featured image to RSS feed"
 1. Activate the plugin through the Plugins menu in WordPress
+
 
 == Frequently Asked Questions ==
 
@@ -28,12 +32,20 @@ This plugin adds the featured image of each post to the RSS feed content.
 
 In your site's RSS feed.
 
+
 == Changelog ==
+
+= 1.0.1 =
+* [Changed] Tested up to version 5.1.1
 
 = 1.0 =
 * First build
 
+
 == Upgrade Notice ==
+
+= 1.1.0 =
+I tested this version of the plugin on WordPress 5.1.1, and it still works great.
 
 = 1.0 =
 There is only one version available at this time

@@ -13,7 +13,7 @@ defined( 'ABSPATH' ) or exit;
 
 function salzano_add_featured_image_to_feed( $content ) {
 	global $post;
-	if ( isset( $post->ID ) && has_post_thumbnail( $post->ID ) ){
+	if ( isset( $post->ID ) && has_post_thumbnail( $post->ID ) ) {
 		return get_the_post_thumbnail( $post->ID, apply_filters( 'rss_featured_image_thumbnail_size', 'large' ) ) . $content;
 	}
 	return $content;

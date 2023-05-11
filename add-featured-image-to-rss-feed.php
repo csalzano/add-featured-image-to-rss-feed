@@ -4,7 +4,7 @@ defined( 'ABSPATH' ) or exit;
  * Plugin Name: Add Featured Image to RSS Feed
  * Plugin URI: https://github.com/csalzano/add-featured-image-to-rss-feed
  * Description: Adds the featured image attached to your posts to the RSS feed.
- * Version: 1.1.0
+ * Version: 1.1.2
  * Author: Corey Salzano
  * Author URI: https://coreysalzano.com/
  * License: GPLv2 or later

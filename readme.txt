@@ -1,6 +1,6 @@
 === Add Featured Image to RSS Feed ===
 Contributors: salzano
-Tags: featured image, feed, post thumbnail, add featured image to rss, add featured image, the_post_thumbnail
+Tags: featured image, feed, post thumbnail, add featured image to rss, add featured image
 Requires at least: 2.0.2
 Tested up to: 6.6.1
 Stable tag: 1.1.3

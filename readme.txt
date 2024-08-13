@@ -9,15 +9,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adds the featured image attached to posts to the beginning of the post content and excerpt in RSS feeds.
 
+== Description ==
+
+This plugin does one thing, and that thing is to add your posts' featured image to the RSS feed. It specifies the 'large' image size.
+
 ### Open Graph Meta Tags are also Necessary
 
 Many modern feed readers do not show the images added by this plugin. Feedly, for example, will not show images added by this plugin. Feed readers crawl article pages to find the image attached to posts in the open graph meta tag. Many SEO plugins add open graph tags for featured images. I like the (https://wordpress.org/plugins/opengraph/)[Open Graph] plugin, too.
 
-
-== Description ==
-
-This plugin does one thing, and that thing is to add your posts' featured image to the RSS
-feed. It specifies the 'large' image size.
 
 
 == Installation ==

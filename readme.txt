@@ -2,8 +2,8 @@
 Contributors: salzano
 Tags: featured image, feed, post thumbnail, add featured image to rss, add featured image, the_post_thumbnail
 Requires at least: 2.0.2
-Tested up to: 6.2.0
-Stable tag: 1.1.2
+Tested up to: 6.6.1
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,10 @@ Make sure your articles have open graph image meta tags. Many modern feed reader
 
 == Changelog ==
 
+= 1.1.3 =
+* [Fixed] Updates documentation to suggest this plugin is not as useful as it once was, and open graph image meta tags are often required for modern feed readers to show post thumbnails.
+* [Changed] Changes tested up to version 6.6.1
+
 = 1.1.2 =
 * [Changed] Changes tested up to version 6.2.0
 
@@ -58,6 +62,9 @@ Make sure your articles have open graph image meta tags. Many modern feed reader
 
 
 == Upgrade Notice ==
+
+= 1.1.3 =
+Updates documentation to suggest this plugin is not as useful as it once was, and open graph image meta tags are often required for modern feed readers to show post thumbnails. Changes tested up to version 6.6.1
 
 = 1.1.2 =
 Changes tested up to version 6.2.0.
